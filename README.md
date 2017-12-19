@@ -10,7 +10,7 @@ string
 ## Example usage
 
 ```javascript
-const find = require('longest-common-subsequence').find
+const find = require('find-longest-common-subsequence').find
 
 let testArray = ["dog2", "dog33"]
 console.log(find(testArray)) //<-- dog

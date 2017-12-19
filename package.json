@@ -1,5 +1,5 @@
 {
-	"name": "longest-common-subsequence",
+	"name": "find-longest-common-subsequence",
 	"version": "1.0.0",
 	"description": "Library for finding the longest common substring in a array starting with the same prefix.",
 	"main": "index.js",
