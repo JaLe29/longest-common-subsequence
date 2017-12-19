@@ -1,0 +1,27 @@
+{
+	"name": "longest-common-subsequence",
+	"version": "1.0.0",
+	"description": "Library for finding the longest common substring in a array starting with the same prefix.",
+	"main": "index.js",
+	"scripts": {
+		"test": "node_modules/mocha/bin/mocha test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JaLe29/longest-common-subsequence.git"
+	},
+	"keywords": [
+		"longest",
+		"common",
+		"substring"
+	],
+	"author": "JaLe",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/JaLe29/longest-common-subsequence/issues"
+	},
+	"homepage": "https://github.com/JaLe29/longest-common-subsequence#readme",
+	"devDependencies": {
+		"mocha": "^2.4.5"
+	}
+}
